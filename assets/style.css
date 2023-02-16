@@ -1,0 +1,16 @@
+/* body{
+    background: #251919;
+} */
+header{
+    margin-top: 50px;
+}
+.money{
+    color: white;
+    font-size: 50px;
+    padding-bottom: 20px;
+}
+#title{
+    border-radius: 8px;
+    padding-top: 20px;
+    font-size: 24px;
+}
